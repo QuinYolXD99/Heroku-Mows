@@ -1,26 +1,30 @@
 {
-  "name": "heroku-mows",
-  "version": "1.0.0",
-  "description": "secret",
-  "main": "index.js",
-  "dependencies": {
-    "express": "^4.17.1"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "test": "secret"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Yol-B/Heroku-Mows.git"
-  },
-  "keywords": [
-    "yol"
-  ],
-  "author": "Yol Torres",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Yol-B/Heroku-Mows/issues"
-  },
-  "homepage": "https://github.com/Yol-B/Heroku-Mows#readme"
+    "name": "heroku-mows",
+    "version": "1.0.0",
+    "description": "secret",
+    "main": "index.js",
+    "dependencies": {
+        "express": "^4.17.1"
+    },
+    "engines": {
+        "node": "v10.15.3"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "secret",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Yol-B/Heroku-Mows.git"
+    },
+    "keywords": [
+        "yol"
+    ],
+    "author": "Yol Torres",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Yol-B/Heroku-Mows/issues"
+    },
+    "homepage": "https://github.com/Yol-B/Heroku-Mows#readme"
 }
